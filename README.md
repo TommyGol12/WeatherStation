@@ -1,6 +1,6 @@
 # Weather Station
 
-## an IoT project
+## IoT project
 
 ### Development Roadmap
 
@@ -13,7 +13,7 @@
 - [x] set index route and views
 - [x] link ESP32 to Node app with fetch
 
-### hardware requirements
+### Hardware requirements
 
 - Esp32
 - Micro USB cable
