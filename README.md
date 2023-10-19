@@ -25,24 +25,12 @@
 - Cables
 - Breadboard
 
-### Initializing a Node.js Environment
+### Software requirements
 
-1. Ensure that Node.js and NPM are installed on your system:
-    > node --version
-
-    > npm --version
-
-2. In terminal, inside the project directory:
-    > npm init -y
-
-3. This will add a package.json file
-
-4. Install dependencies
-    > npm install express ejs express-ejs-layouts
-
-5. Install development dependencies
-    > npm install --save-dev dotenv nodemon
-
+- Visual Studio code
+- Arduino IDE
+- Node.js
+- Git
 
 ### Initializing a Node.js Environment
 
@@ -61,6 +49,8 @@
 
 5. Install development dependencies
     > npm install --save-dev dotenv nodemon
+
+
 
 ### Worklog and Commits
 
