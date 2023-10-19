@@ -1,0 +1,31 @@
+  <div class="Top">
+    <li>
+      <div class="tempf"><p><%= obj.temperature %>&deg;<br /></p></div>
+      <p>Humidity: <%= obj.humidity %>&percnt;<br /></p>
+      <p><%= obj.rainStatus === 1 ? 'It is raining' : 'It is not raining' %><br /></p>
+      <div class="Img">
+        <img src="<%= obj.rainStatus === 1 ? 'assets/cloud.rain.png' : 'assets/Cloud-sun.png' %>">
+      </div>
+    </li>
+  </div>
+  
+ 
+
+
+  <div class="Box">
+    <article>
+      <h3>Sensor Info</h3>
+    </article> 
+    <li>
+      <li>
+      <p>Sensor Name: <%= obj.sensName %> <br /></p>
+      <p>Id: 116 <br /></p> 
+      <p>Hardware: <%= obj.hardware %> <br /></p> 
+      <p>Location: <%= obj.location %><br /></p>
+      </li>
+    </li>
+  </div>
+    
+     
+    
+
