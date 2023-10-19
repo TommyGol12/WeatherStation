@@ -62,7 +62,6 @@
 Date | Commit Message | Version
 :-----|:----------------:|:--------:
 25.08.23 | initial setup | 0.1.0
-:-----|:----------------:|:--------:
 20.10.23 | Final project commit | 0.1.1
 
 ### References
