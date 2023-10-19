@@ -12,6 +12,9 @@
 - [x] setup server.js with express
 - [x] set index route and views
 - [x] link ESP32 to Node app with fetch
+- [x] Start work on rain sensor and get readings
+- [x] Style webpage
+- [x] Finalise assessment
 
 ### Hardware requirements
 
