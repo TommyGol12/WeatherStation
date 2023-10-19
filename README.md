@@ -10,8 +10,15 @@
 - [x] Test ESP32 - get json data via wifi
 - [x] Initialize Node.js environment
 - [x] setup server.js with express
-- [ ] set index route and views
-- [ ] link ESP32 to Node app with fetch
+- [x] set index route and views
+- [x] link ESP32 to Node app with fetch
+
+### hardware requirements
+
+- Esp32
+- micro USB cable
+- Humidy sensor
+- Rain sensor
 
 ### Initializing a Node.js Environment
 
@@ -55,6 +62,8 @@
 Date | Commit Message | Version
 :-----|:----------------:|:--------:
 25.08.23 | initial setup | 0.1.0
+:-----|:----------------:|:--------:
+20.10.23 | Final project commit | 0.1.1
 
 ### References
 
