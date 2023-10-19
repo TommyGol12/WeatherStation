@@ -16,9 +16,11 @@
 ### hardware requirements
 
 - Esp32
-- micro USB cable
+- Micro USB cable
 - Humidy sensor
 - Rain sensor
+- Cables
+- Breadboard
 
 ### Initializing a Node.js Environment
 
