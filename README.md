@@ -1,4 +1,5 @@
 # Weather Station
+![3739480B-0C68-4C07-9B26-A5A607D59F65_1_102_a](https://github.com/TommyGol12/WeatherStation/assets/140572779/f296c35d-ecda-47a6-b6db-ddb025c92731)
 
 ## IoT project
 
